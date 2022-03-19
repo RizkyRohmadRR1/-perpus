@@ -27,7 +27,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <b>App</b>Perpus
+    <b>App</b>Perpustakaan
   </div>
 
   <div class="login-box-body">
